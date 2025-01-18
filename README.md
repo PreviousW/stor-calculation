@@ -1,5 +1,5 @@
 # stor-calculation
-:O How did he come up with that idea?
+:O How did `Albert Einstein` come up with that idea? 
 
 # Result
 <img width="1378" alt="스크린샷 2025-01-19 오전 3 55 10" src="https://github.com/user-attachments/assets/45afdf88-d5df-4c24-8d30-3af7402d1d6b" />
